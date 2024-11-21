@@ -1,0 +1,3 @@
+git initi
+git commit
+git clone
